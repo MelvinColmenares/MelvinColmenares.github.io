@@ -1,7 +1,7 @@
 ---
 title: Text and Typography
 categories: [Blogging, PowerBI]
-tags: [dashboard, typography]
+tags: [dashboard, typography, powerbi]
 render_with_liquid: false
 published: true
 image:
@@ -9,7 +9,7 @@ image:
 ---
 
 ## Repositorio
-- [URL-de-github-pages-de-este-proyecto](https://raw.githubusercontent.com/MelvinColmenares/prueba/main/_PFINAL_IMAGENES/MAPA_DETALLE_CLP.png)
+- [URL-de-repositorio-github-de-este-proyecto]({image.path})
 
 ## Descripción 📑
 
