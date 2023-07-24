@@ -18,7 +18,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: MelvinColmenares # the main title
+title: Melvin Colmenares # the main title
 
 tagline: Portafolio, ejemplos de código e informes # it will display as the sub-title
 
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: https://melvincolmenares.github.io
+img_cdn: #https://melvincolmenares.github.io
 
 # the avatar on sidebar, support local or CORS resources
 avatar: assets/img/favicons/profile.png
