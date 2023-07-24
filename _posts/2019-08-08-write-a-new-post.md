@@ -10,7 +10,8 @@ image:
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-https://github.com/MelvinColmenares/prueba/blob/main/_PFINAL_IMAGENES/Maestros%20-%20Excel.png?raw=true
+# Prueba
+![Imagen del proyecto](https://raw.githubusercontent.com/MelvinColmenares/prueba/main/_PFINAL_IMAGENES/Maestros%20-%20Excel.png)
 
 This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
 
