@@ -18,7 +18,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: MelvinColmenares # the main title
+title: Melvin Colmenares # the main title
 
 tagline: A text-focused Jekyll theme # it will display as the sub-title
 
@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 
+avatar: assets/img/favicons/profile.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
