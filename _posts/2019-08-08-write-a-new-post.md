@@ -9,7 +9,7 @@ image:
 ---
 
 ## Repositorio
-- [URL-de-repositorio-github-de-este-proyecto]({image.path})
+- [URL-de-repositorio-github-de-este-proyecto](image.path)
 
 ## Descripción 📑
 
