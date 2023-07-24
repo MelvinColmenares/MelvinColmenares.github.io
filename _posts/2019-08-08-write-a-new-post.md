@@ -10,7 +10,7 @@ image:
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-# Prueba
+# Prueba PRUEBA prueba
 
 
 ![Imagen del proyecto](https://raw.githubusercontent.com/MelvinColmenares/prueba/main/_PFINAL_IMAGENES/Maestros%20-%20Excel.png)
