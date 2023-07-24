@@ -5,7 +5,7 @@ date: 2019-08-08 11:33:00
 categories: [Blogging, Demo]
 tags: [typography]
 image:
-  path: /prueba/blob/main/_PFINAL_IMAGENES/Maestros%20-%20Excel.png?raw=true
+  path: https://raw.githubusercontent.com/MelvinColmenares/prueba/main/_PFINAL_IMAGENES/Maestros%20-%20Excel.png
   lqip: 
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
