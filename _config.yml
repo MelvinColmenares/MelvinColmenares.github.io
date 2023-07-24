@@ -20,10 +20,10 @@ timezone:
 
 title: Melvin Colmenares # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Portafolio, ejemplos de código e informes # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Portafolio / Briefcase
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://melvincolmenares.github.io'
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: https://melvincolmenares.github.io
 
 # the avatar on sidebar, support local or CORS resources
 avatar: assets/img/favicons/profile.png
