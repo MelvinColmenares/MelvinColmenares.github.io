@@ -1,7 +1,5 @@
 ---
 title: Text and Typography
-author: cotes
-date: 2019-08-08 12:40:00
 categories: [Blogging, Demo]
 tags: [typography]
 image:
