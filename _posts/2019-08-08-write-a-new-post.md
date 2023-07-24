@@ -1,7 +1,7 @@
 ---
 title: Post de Prueba
 categories: [Blogging, PowerBI]
-tags: [dashboard, typography, powerbi]
+tags: [dashboard, typography, powerbi, homelab]
 render_with_liquid: false
 published: true
 image:
