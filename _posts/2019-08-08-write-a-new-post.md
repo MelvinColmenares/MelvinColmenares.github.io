@@ -1,5 +1,5 @@
 ---
-title: POST TEMPLATE
+title: Prueba
 categories: [Blogging, PowerBI]
 tags: [dashboard, typography, powerbi]
 render_with_liquid: false
