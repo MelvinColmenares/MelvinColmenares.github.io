@@ -8,7 +8,7 @@ published: true
 Welcome to my very 4th post PRUEBA! I am excited to share...
 
 # Prueba
-![Imagen del proyecto](https://github.com/MelvinColmenares/prueba/blob/1136dbc7d1f0078ca8996394ea8c6161fd5f9119/_PFINAL_IMAGENES/MAPA_DETALLE_USD.png)
+Sin imagen
 
 ## Descripción 📑
 
@@ -16,4 +16,5 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
 
 ## Repositorio
 - [URL-de-github-pages-de-este-proyecto](https://github.com/MelvinColmenares/prueba)
+- 
 
