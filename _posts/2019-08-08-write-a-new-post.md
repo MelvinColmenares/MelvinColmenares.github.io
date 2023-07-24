@@ -1,7 +1,7 @@
 ---
 title: Text and Typography
 author: cotes
-date: 2019-08-08 11:33:00
+date: 2019-08-08 12:40:00
 categories: [Blogging, Demo]
 tags: [typography]
 image:
@@ -9,7 +9,7 @@ image:
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-# Prueba PRUEBA prueba
+# Prueba
 
 ![Imagen del proyecto](https://raw.githubusercontent.com/MelvinColmenares/prueba/main/_PFINAL_IMAGENES/MAPA_DETALLE_CLP.png)
 
