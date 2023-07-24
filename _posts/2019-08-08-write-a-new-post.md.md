@@ -1,5 +1,5 @@
 ---
-title: Writing a New Post
+title: Writing a   New Post
 categories: [Blogging, Tutorial]
 tags: [writing]
 render_with_liquid: false
