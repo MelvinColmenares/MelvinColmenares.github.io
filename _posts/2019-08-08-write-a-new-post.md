@@ -9,7 +9,7 @@ image:
 ---
 
 ## Repositorio:
-- [URL-de-repositorio-github-de-este-proyecto](https://raw.githubusercontent.com/MelvinColmenares/prueba/main/_PFINAL_IMAGENES/MAPA_DETALLE_CLP.png)
+- [URL-de-repositorio-github-de-este-proyecto](https://github.com/MelvinColmenares/prueba)
 
 ## Descripción:
 
