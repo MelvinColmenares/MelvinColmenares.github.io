@@ -13,7 +13,7 @@ baseurl: ""
 lang: es-ES
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/Santiago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -73,10 +73,16 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: #https://melvincolmenares.github.io
+#img_cdn: #https://melvincolmenares.github.io
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/favicons/profile.png
+#avatar: assets/img/favicons/profile.png
+
+# e.g. 'https://cdn.com'
+img_cdn: "https://melvincolmenares.github.io"
+
+# the avatar on sidebar, support local or CORS resources
+avatar: "/assets/img/favicons/profile.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
