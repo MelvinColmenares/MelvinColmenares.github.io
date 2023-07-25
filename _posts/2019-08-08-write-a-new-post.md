@@ -6,24 +6,13 @@ render_with_liquid: false
 published: true
 image:
   path: https://raw.githubusercontent.com/MelvinColmenares/prueba/main/_PFINAL_IMAGENES/MAPA_DETALLE_USD.png
-  width: 20%
-  height: 20%
+  width: 10%
+  height: 10%
   alt: my-screenshot of something
 ---
-<!---
-img_path: /assets/screenshots/2022-06-28-my-post
-image:
-  src: my-screenshot.png
-  width: 100%
-  height: 100%
-  alt: my-screenshot of something
-
-image:
-  path: https://raw.githubusercontent.com/MelvinColmenares/prueba/main/_PFINAL_IMAGENES/MAPA_DETALLE_CLP.png
--->
 
 ## Repositorio:
 - [URL-de-repositorio-github-de-este-proyecto](https://github.com/MelvinColmenares/prueba)
 
 ## Descripción:
-Lorem ipsum dolor, Esta es na prurbe mas sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+Lorem ipsum dolor, PRUEBA PRUEBA PRUEBA  Esta es na prurbe mas sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
