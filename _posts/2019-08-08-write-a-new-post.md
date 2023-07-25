@@ -5,9 +5,12 @@ tags: [dashboard, typography, powerbi, homelab]
 render_with_liquid: false
 published: true
 image:
-  ![My helpful screenshot](https://raw.githubusercontent.com/MelvinColmenares/prueba/main/_PFINAL_IMAGENES/MAPA_DETALLE_USD.png)
+  path: https://raw.githubusercontent.com/MelvinColmenares/prueba/main/_PFINAL_IMAGENES/MAPA_DETALLE_USD.png
+  width: 20%
+  height: 20%
 ---
-
+## IMAGEN ORUEBA
+  ![My helpful screenshot](https://raw.githubusercontent.com/MelvinColmenares/prueba/main/_PFINAL_IMAGENES/MAPA_DETALLE_USD.png)
 ## Repositorio:
 - [URL-de-repositorio-github-de-este-proyecto](https://github.com/MelvinColmenares/prueba)
 
