@@ -4,8 +4,8 @@ categories: [Blogging, PowerBI]
 tags: [dashboard, typography, powerbi, homelab]
 render_with_liquid: false
 published: true
-
-![My helpful screenshot](https://raw.githubusercontent.com/MelvinColmenares/prueba/main/_PFINAL_IMAGENES/MAPA_DETALLE_USD.png)
+image:
+  ![My helpful screenshot](https://raw.githubusercontent.com/MelvinColmenares/prueba/main/_PFINAL_IMAGENES/MAPA_DETALLE_USD.png)
 ---
 
 ## Repositorio:
