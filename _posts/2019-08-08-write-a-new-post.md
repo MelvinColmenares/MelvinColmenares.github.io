@@ -6,8 +6,8 @@ render_with_liquid: false
 published: true
 image:
   path: https://raw.githubusercontent.com/MelvinColmenares/prueba/main/_PFINAL_IMAGENES/MAPA_DETALLE_USD.png
-  width: 10%
-  height: 10%
+  width: 30%
+  height: 30%
   alt: my-screenshot of something
 ---
 
