@@ -1,14 +1,11 @@
 ---
-title: Post de Otra XXX PRUEBA
+title: Post de Otra PRUEBA
 categories: [Blogging, PowerBI]
 tags: [dashboard, typography, powerbi, homelab]
 render_with_liquid: false
 published: true
-image:
-  path: https://raw.githubusercontent.com/MelvinColmenares/prueba/main/_PFINAL_IMAGENES/MAPA_DETALLE_USD.png
-  width: 20%
-  height: 20%
-  alt: my-screenshot of something
+
+![My helpful screenshot](https://raw.githubusercontent.com/MelvinColmenares/prueba/main/_PFINAL_IMAGENES/MAPA_DETALLE_USD.png)
 ---
 
 ## Repositorio:
