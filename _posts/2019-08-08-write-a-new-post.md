@@ -1,5 +1,5 @@
 ---
-title: Post de PRUEBA PRUEBA
+title: Post de PRUEBA XXXX PRUEBA
 categories: [Blogging, PowerBI]
 tags: [dashboard, typography, powerbi, homelab]
 render_with_liquid: false
