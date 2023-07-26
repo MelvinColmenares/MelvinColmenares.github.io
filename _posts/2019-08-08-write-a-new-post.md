@@ -1,5 +1,5 @@
 ---
-title: Post de XXXX
+title: Post de PRUEBA XXXX
 categories: [Blogging, PowerBI]
 tags: [dashboard, typography, powerbi, homelab]
 published: true
