@@ -2,9 +2,9 @@
 title: Post de PRUEBA XXXX PRUEBA
 categories: [Blogging, PowerBI]
 tags: [dashboard, typography, powerbi, homelab]
-render_with_liquid: false
 published: true
-thumbnail: https://raw.githubusercontent.com/MelvinColmenares/prueba/main/_PFINAL_IMAGENES/MAPA_DETALLE_USD.png
+image:
+  path: https://raw.githubusercontent.com/MelvinColmenares/prueba/main/_PFINAL_IMAGENES/MAPA_DETALLE_USD.png
 ---
 ## IMAGEN ORUEBA
   ![My helpful screenshot](https://raw.githubusercontent.com/MelvinColmenares/prueba/main/_PFINAL_IMAGENES/MAPA_DETALLE_USD.png)
