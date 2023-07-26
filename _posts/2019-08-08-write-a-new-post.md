@@ -5,7 +5,7 @@ tags: [dashboard, typography, powerbi, homelab]
 published: true
 regenerate: true
 image:
-  feature: 
+  feature: https://raw.githubusercontent.com/MelvinColmenares/prueba/main/_PFINAL_IMAGENES/MAPA_DETALLE_USD.png
   thumb: https://raw.githubusercontent.com/MelvinColmenares/prueba/main/_PFINAL_IMAGENES/MAPA_DETALLE_USD.png
 ---
 ## IMAGEN ORUEBA
