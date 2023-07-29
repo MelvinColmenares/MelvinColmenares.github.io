@@ -84,8 +84,20 @@ img_cdn: "https://melvincolmenares.github.io"
 # the avatar on sidebar, support local or CORS resources
 avatar: "/assets/img/favicons/profile.png"
 
+## sidebar background image
+siderbar_bg_img : /assets/images/data-science.png
+
 # boolean type, the global switch for TOC in posts.
 toc: true
+
+# Sidebar image and theme color of the site.
+accent_image:  /assets/images/data-science.png
+accent_color:  rgb(79,177,186)
+
+# This is used for the `theme-color` meta tag,
+# which changes the background color of the browser UI in certain browsers.
+# Defaults to `accent_color`.
+theme_color:           rgb(25,55,71)
 
 comments:
   active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
@@ -202,3 +214,5 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+
