@@ -1,5 +1,5 @@
 ---
-title: Post de PRUEBA SEGUNDA PRUEBA
+title: Post de PRUEBA TERCERA PRUEBA
 categories: [Blogging, PowerBI]
 tags: [dashboard, typography, powerbi, homelab]
 published: true
