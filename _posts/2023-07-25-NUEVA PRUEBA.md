@@ -17,11 +17,7 @@ Lorem ipsum dolor, PRUEBA  Esta es na prurbe mas sit amet consectetur adipisicin
 
 
 ## Link en vivo
-A continuación se muestra un [Link]([https://ejemplo.com/](https://app.powerbi.com/view?r=eyJrIjoiMGNmNGIyM2ItYmEzNS00OTIwLTljNjMtMWNmZGU1NWE4YzQxIiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9) "Informe en vivo").
+A continuación se muestra un [Link]([https://ejemplo.com/](https://app.powerbi.com/view?r=eyJrIjoiMGNmNGIyM2ItYmEzNS00OTIwLTljNjMtMWNmZGU1NWE4YzQxIiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9) "Informe en vivo")
+
 
  
-
-
-## Código Insertado
-
-<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGNmNGIyM2ItYmEzNS00OTIwLTljNjMtMWNmZGU1NWE4YzQxIiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9" frameborder="0" allowFullScreen="true"></iframe>
