@@ -17,7 +17,9 @@ Lorem ipsum dolor, PRUEBA  Esta es na prurbe mas sit amet consectetur adipisicin
 
 
 ## Link en vivo
- ![InformeVentas01](https://app.powerbi.com/view?r=eyJrIjoiMGNmNGIyM2ItYmEzNS00OTIwLTljNjMtMWNmZGU1NWE4YzQxIiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9)
+A continuación se muestra un [Link]([https://ejemplo.com/](https://app.powerbi.com/view?r=eyJrIjoiMGNmNGIyM2ItYmEzNS00OTIwLTljNjMtMWNmZGU1NWE4YzQxIiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9) "Informe en vivo").
+
+ 
 
 
 ## Código Insertado
