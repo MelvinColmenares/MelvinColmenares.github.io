@@ -136,7 +136,8 @@ pwa:
 
 paginate: 10
 
-# ------------ The following options are not recommended to be modified ------------------
+
+# ------------ The following options are not recommended to be modified -----------------
 
 kramdown:
   syntax_highlighter: rouge
@@ -148,6 +149,8 @@ kramdown:
     block:
       line_numbers: true
       start_line: 1
+      
+markdown: kramdown
 
 collections:
   tabs:
