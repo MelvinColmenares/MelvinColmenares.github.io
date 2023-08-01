@@ -35,7 +35,9 @@ This is [an example](https://app.powerbi.com/view?r=eyJrIjoiMGNmNGIyM2ItYmEzNS00
 
  
 
+# Contenido del archivo 2023-07-23-read.md
 
+{% include_relative https://github.com/melvincolmenares/briefcase/blob/main/README.md %}
 
 
  
