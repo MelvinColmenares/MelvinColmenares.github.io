@@ -1,11 +1,12 @@
 ---
-title: Post de PRUEBA SEPTIMA PRUEBA
+title: Post de PRUEBA TERCERA PRUEBA
 categories: [Blogging, PowerBI]
 tags: [dashboard, typography, powerbi, homelab]
 published: true
 image:
   path: /assets/images/MAPA_DETALLE_USD.png
-  hide: true
+  hide: false
+  show: false
 ---
 
 ## IMAGEN PRUEBA
@@ -35,10 +36,4 @@ This is [an example](https://app.powerbi.com/view?r=eyJrIjoiMGNmNGIyM2ItYmEzNS00
 
 
  
-
-# Contenido del archivo 2023-07-23-read.md
-
-{% include_relative https://github.com/melvincolmenares/briefcase/blob/main/README.md %}
-
-
  
