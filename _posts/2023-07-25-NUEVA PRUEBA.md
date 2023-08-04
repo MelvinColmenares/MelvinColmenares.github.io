@@ -1,5 +1,5 @@
 ---
-title: Post de PRUEBA 3ra TERCERA PRUEBA
+title: Post de PRUEBA 9na NOVENA TERCERA PRUEBA
 categories: [Blogging, PowerBI]
 tags: [dashboard, typography, powerbi, homelab]
 published: true
@@ -38,7 +38,6 @@ This is [an example](https://app.powerbi.com/view?r=eyJrIjoiMGNmNGIyM2ItYmEzNS00
 ## Galeria
 ESTA ES UNA PRUEBA DE GALERIA
 
-<iframe title="Gallery Section" width="600" height="373.5" src="https://melvincolmenares.github.io/gallery/" frameborder="0" allowFullScreen="true"></iframe>
 
 
 
