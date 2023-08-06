@@ -9,7 +9,7 @@ image:
   show: false
 ---
 
-## IMAGEN PRUEBA
+##  NUEVA IMAGEN PRUEBA
   ![My helpful screenshot](https://raw.githubusercontent.com/MelvinColmenares/prueba/main/_PFINAL_IMAGENES/MAPA_DETALLE_USD.png)
 
 ## Descripción:
@@ -35,12 +35,13 @@ This is [an example](https://app.powerbi.com/view?r=eyJrIjoiMGNmNGIyM2ItYmEzNS00
 
 
 
-## Galeria de Imagenes
+## Nueva Galeria de Imagenes
 Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/gallery/){:target="_blank"}
 <!-- <div class="embed-container">
     <iframe src="https://melvincolmenares.github.io/gallery/" frameborder="0" allowfullscreen></iframe>
 </div>
 -->
+
 <div class="embed-container">
     <iframe src="/gallery/" frameborder="0" allowfullscreen></iframe>
 </div>
