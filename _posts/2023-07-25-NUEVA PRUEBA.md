@@ -35,13 +35,19 @@ This is [an example](https://app.powerbi.com/view?r=eyJrIjoiMGNmNGIyM2ItYmEzNS00
 
 
 
-## Galeria
-ESTA ES UNA PRUEBA DE GALERIA
+## Galeria de Imagenes
+Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/gallery/){:target="_blank"}
+<!-- <div class="embed-container">
+    <iframe src="https://melvincolmenares.github.io/gallery/" frameborder="0" allowfullscreen></iframe>
+</div>
+-->
+<div class="embed-container">
+    <iframe src="/gallery/" frameborder="0" allowfullscreen></iframe>
+</div>
 
-
-<iframe title="Gallery Section" width="600" height="373.5" src="https://melvincolmenares.github.io/gallery/" frameborder="0" allowFullScreen="true"></iframe>
-
-
+<div class="embed-container">
+    <iframe src="https://melvincolmenares.github.io/nuevoinfome/" frameborder="0" scrolling = "no" allowfullscreen ></iframe>
+</div>
 
 
 
