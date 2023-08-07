@@ -35,7 +35,7 @@ This is [an example](https://app.powerbi.com/view?r=eyJrIjoiMGNmNGIyM2ItYmEzNS00
 
 
 
-## Galeria de Imagenes
+## Galeria de  PRUEBA Imagenes
 Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/gallery/){:target="_blank"}
 <!-- <div class="embed-container">
     <iframe src="https://melvincolmenares.github.io/gallery/" frameborder="0" allowfullscreen></iframe>
