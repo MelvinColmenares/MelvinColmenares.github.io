@@ -33,7 +33,7 @@ This is [an example](https://app.powerbi.com/view?r=eyJrIjoiMGNmNGIyM2ItYmEzNS00
 
 [This link](https://app.powerbi.com/view?r=eyJrIjoiMGNmNGIyM2ItYmEzNS00OTIwLTljNjMtMWNmZGU1NWE4YzQxIiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9) has no title attribute.
 
-## Galeria Prueba de Imagenes
+## Galeria de Prueba de Imagenes
 Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/gallery/){:target="_blank"}
 <!-- <div class="embed-container">
     <iframe src="https://melvincolmenares.github.io/gallery/" frameborder="0" allowfullscreen></iframe>
