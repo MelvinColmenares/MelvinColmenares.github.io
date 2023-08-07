@@ -44,7 +44,7 @@ Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/gallery
 </div>
 
 <div class="embed-container">
-    <iframe src="https://melvincolmenares.github.io/nuevoinfome/" frameborder="0" scrolling = "no" allowfullscreen ></iframe>
+    <iframe src="https://melvincolmenares.github.io/nuevoinforme/" frameborder="0" scrolling = "no" allowfullscreen ></iframe>
 </div>
 
 
