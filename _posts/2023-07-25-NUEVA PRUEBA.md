@@ -39,11 +39,11 @@ Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/gallery
     <iframe src="https://melvincolmenares.github.io/gallery/" frameborder="0" allowfullscreen></iframe>
 </div>
 -->
-<div class="embed-container">
+<div class="embed-containerX">
     <iframe src="/gallery/" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<div class="embed-container">
+<div class="embed-containerX">
     <iframe src="https://melvincolmenares.github.io/nuevoinfome/" frameborder="0" scrolling = "no" allowfullscreen ></iframe>
 </div>
 
