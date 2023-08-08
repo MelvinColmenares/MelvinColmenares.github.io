@@ -8,9 +8,7 @@ image:
   hide: true
   show: false
 ---
-
-## POST DE PRUEBA
- 
+# POST DE PRUEBA
 <div class="embed-container">
     <iframe src="https://melvincolmenares.github.io/proyectosupertienda/" frameborder="0" scrolling = "no" allowfullscreen ></iframe>
 </div>
