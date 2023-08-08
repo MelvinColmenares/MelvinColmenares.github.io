@@ -9,11 +9,4 @@ image:
   show: false
 ---
 # POST DE PRUEBA
-<!--
-<div class="embed-container">
-    <iframe src="https://melvincolmenares.github.io/proyectosupertienda/" frameborder="0" scrolling = "no" allowfullscreen ></iframe>
-</div>
-
--->
-
-<iframe src="https://melvincolmenares.github.io/proyectosupertienda/" frameborder="0" scrolling = "no" allowfullscreen ></iframe>
+<iframe src="https://melvincolmenares.github.io/proyectosupertienda/" frameborder="0" allowfullscreen ></iframe>
