@@ -1,5 +1,5 @@
 ---
-title:
+title: " "
 categories: [Blogging, PowerBI]
 tags: [dashboard, typography, powerbi, homelab]
 published: true
@@ -8,5 +8,5 @@ image:
   hide: true
   show: false
 ---
-# POST DE PRUEBA
-<iframe src="https://melvincolmenares.github.io/proyectosupertienda/" frameborder="0" allowfullscreen ></iframe>
+
+<iframe src="https://melvincolmenares.github.io/proyectosupertienda/" width: 100% height: 100% frameborder="0" allowfullscreen ></iframe>
