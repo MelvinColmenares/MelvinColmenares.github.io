@@ -7,12 +7,6 @@ image:
   path: https://melvincolmenares.github.io/dashboard-de-ventas/gallery/img/img01.png
   hide: true
 ---
-<!--  ProyectoSuperTienda.PBIX
-Vínculo que puede enviar por correo electrónico:
-https://app.powerbi.com/view?r=eyJrIjoiMGNmNGIyM2ItYmEzNS00OTIwLTljNjMtMWNmZGU1NWE4YzQxIiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9
-Código HTML que puede pegar en un sitio web:
-<iframe title="AnalisisVentas01" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGNmNGIyM2ItYmEzNS00OTIwLTljNjMtMWNmZGU1NWE4YzQxIiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9" frameborder="0" allowFullScreen="true"></iframe>
--->
 <p align="center">
   <img src="https://melvincolmenares.github.io/dashboard_de_ventas/gallery/img/img01.png"  width="90%">
 </p>
