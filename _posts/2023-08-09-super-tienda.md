@@ -8,7 +8,7 @@ image:
   hide: true
 ---
 <p align="center">
-  <img src="https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png"  width="80%">
+  <img src="https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png"  width="90%">
 </p>
 
 Proyecto Power BI. Dashboard de ventas SuperTienda
@@ -43,7 +43,9 @@ Este proyecto permitió poner en practica el contenido impartido en el Módulo 8
 ## Vistas del proyecto 🔭
 Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/proyectosupertienda/gallery/){:target="_blank"}
 
-<iframe src="https://melvincolmenares.github.io/proyectosupertienda/gallery/" width="100%" height="350" style="border:none;"></iframe>
+<div class="embed-container">
+  <iframe src="https://melvincolmenares.github.io/proyectosupertienda/gallery/" width="100%" height="350" style="border:none;"></iframe>
+</div>
 
 ## GitHub Pages 
 - [Sitio Web](https://melvincolmenares.github.io/proyectosupertienda/ "website")
