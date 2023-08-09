@@ -33,13 +33,11 @@ tail_includes:
     {% capture src %}src="{{ page.image.path | default: page.image }}"{% endcapture %}
     {% capture class %}class="preview-img{% if page.image.no_bg %}{{ ' no-bg' }}{% endif %}"{% endcapture %}
     {% capture alt %}alt="{{ page.image.alt | xml_escape | default: "Preview Image" }}"{% endcapture %}
-
     {% capture lqip %}
       {% if page.image.lqip %}
         lqip="{{ page.image.lqip }}"
       {% endif %}
     {% endcapture %}
-
     <div class="mt-3 mb-3">
       <img {{ src }} {{ class }} {{ alt }} w="1200" h="630" {{ lqip | strip }}>
       {%- if page.image.alt -%}
