@@ -44,7 +44,7 @@ Este proyecto permitió poner en practica el contenido impartido en el Módulo 8
 Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/proyectosupertienda/gallery/){:target="_blank"}
 
 <div class="embed-container">
-  <iframe src="https://melvincolmenares.github.io/proyectosupertienda/gallery/" width="100%" height="350" style="border:none;"></iframe>
+  <iframe src="https://melvincolmenares.github.io/proyectosupertienda/gallery/"  frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## GitHub Pages 
