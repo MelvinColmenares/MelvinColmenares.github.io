@@ -27,7 +27,7 @@ El modelo de datos se creó a partir de diferentes fuentes de datos: Archivos de
 Los archivos de Excel utilizados fueron: Maestros, TablasAuxiliares y los archivos de Pedidos por año y mes con datos del 2017 al 2020, que estaban contenidos en la carpeta comprimida PEDIDOS.
 
 <p align="center">
-  <img src="https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png"  width="60%">
+  <img src="https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png"  width="80%">
 </p>
 ## Muestra en línea:  [Dashboard Ventas SuperTienda](https://app.powerbi.com/view?r=eyJrIjoiYmFmYzVhNTctMzFiNi00OWEyLTgwOTctZGYzNjY5NmUzYWU4IiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9 "Informe en vivo")
 
@@ -53,7 +53,7 @@ Este proyecto permitió poner en practica el contenido impartido en el Módulo 8
 ## Vistas del proyecto 🔭
 Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/proyectosupertienda/gallery/){:target="_blank"}
 
-<iframe src="https://melvincolmenares.github.io/proyectosupertienda/gallery/" width="80%" style="border:none;"></iframe>
+<iframe src="https://melvincolmenares.github.io/proyectosupertienda/gallery/" width="80%" height="400" style="border:none;"></iframe>
 
 ## GitHub Pages 
 - [Sitio Web](https://melvincolmenares.github.io/proyectosupertienda/ "website")
