@@ -4,7 +4,7 @@ categories: [Blogging, PowerBI]
 tags: [dashboard, powerbi, homelab]
 published: true
 image:
-  path: https://melvincolmenares.github.io/dashboard-de-ventas/gallery/img/img01.png
+  path: https://melvincolmenares.github.io/dashboard_de_ventas/gallery/img/img01.png
   hide: true
 ---
 <p align="center">
