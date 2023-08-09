@@ -5,7 +5,7 @@ tags: [dashboard, typography, powerbi, homelab]
 published: true
 image:
   path: https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png
-  hide: False
+  hide: true
   show: false
 ---
 <!--  ProyectoSuperTienda.PBIX
@@ -19,6 +19,10 @@ Código HTML que puede pegar en un sitio web:
 <iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYmFmYzVhNTctMzFiNi00OWEyLTgwOTctZGYzNjY5NmUzYWU4IiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 -->
+<p align="center">
+<img src="https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png"  width="80%">
+</p>
+
 ## Descripción 📑
 
 Proyecto final de evaluación del curso de Power Bi, módulo 8 del curso Análisis de Datos - Talento Digital.  Incluye la información de ventas de la Super Tienda para el período 2017-2020. Los informes están expresados en USD y CLP. Incluye segmentaciones, filtros y objetos  intereactivos dinámicos que permiten explorar y hacer distintintos análisis sobre la información de ventas de la Super Tienda.
@@ -26,10 +30,8 @@ Proyecto final de evaluación del curso de Power Bi, módulo 8 del curso Anális
 El modelo de datos se creó a partir de diferentes fuentes de datos: Archivos de Excel, CSV, PDF , una carpeta comprimida y páginas web de SII y Emol.
 Los archivos de Excel utilizados fueron: Maestros, TablasAuxiliares y los archivos de Pedidos por año y mes con datos del 2017 al 2020, que estaban contenidos en la carpeta comprimida PEDIDOS.
 
-<p align="center">
-  <img src="https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png"  width="80%">
-</p>
-## Muestra en línea:  [Dashboard Ventas SuperTienda](https://app.powerbi.com/view?r=eyJrIjoiYmFmYzVhNTctMzFiNi00OWEyLTgwOTctZGYzNjY5NmUzYWU4IiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9 "Informe en vivo")
+
+## Muestra en línea:   [Dashboard Ventas SuperTienda](https://app.powerbi.com/view?r=eyJrIjoiYmFmYzVhNTctMzFiNi00OWEyLTgwOTctZGYzNjY5NmUzYWU4IiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9 "Informe en vivo")
 
 <!-- 
 ## Código Insertado
