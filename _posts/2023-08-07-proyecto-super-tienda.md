@@ -24,7 +24,6 @@ Código HTML que puede pegar en un sitio web:
 </p>
 
 ## Descripción 📑
-
 Proyecto final de evaluación del curso de Power Bi, módulo 8 del curso Análisis de Datos - Talento Digital.  Incluye la información de ventas de la Super Tienda para el período 2017-2020. Los informes están expresados en USD y CLP. Incluye segmentaciones, filtros y objetos  intereactivos dinámicos que permiten explorar y hacer distintintos análisis sobre la información de ventas de la Super Tienda.
 
 El modelo de datos se creó a partir de diferentes fuentes de datos: Archivos de Excel, CSV, PDF , una carpeta comprimida y páginas web de SII y Emol.
