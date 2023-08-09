@@ -21,15 +21,15 @@ Código HTML que puede pegar en un sitio web:
 -->
 ## Descripción 📑
 
-Proyecto SuperTienda es el proyecto final de evaluación del curso de Power Bi, módulo 8 del curso Análisis de Datos - Talento Digital.  Incluye la información de ventas de la Super Tienda para el período 2017-2020. Los informes están expresados en USD y CLP. Incluye segmentaciones, filtros y objetos  intereactivos dinámicos que permiten explorar y hacer distintintos análisis sobre la información de ventas de la Super Tienda.
+Proyecto final de evaluación del curso de Power Bi, módulo 8 del curso Análisis de Datos - Talento Digital.  Incluye la información de ventas de la Super Tienda para el período 2017-2020. Los informes están expresados en USD y CLP. Incluye segmentaciones, filtros y objetos  intereactivos dinámicos que permiten explorar y hacer distintintos análisis sobre la información de ventas de la Super Tienda.
 
 El modelo de datos se creó a partir de diferentes fuentes de datos: Archivos de Excel, CSV, PDF , una carpeta comprimida y páginas web de SII y Emol.
 Los archivos de Excel utilizados fueron: Maestros, TablasAuxiliares y los archivos de Pedidos por año y mes con datos del 2017 al 2020, que estaban contenidos en la carpeta comprimida PEDIDOS.
 
-## SuperTienda
-<img src="https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png"  width="60%">
-
-## Muestra en línea  [Dashboard Ventas SuperTienda](https://app.powerbi.com/view?r=eyJrIjoiYmFmYzVhNTctMzFiNi00OWEyLTgwOTctZGYzNjY5NmUzYWU4IiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9 "Informe en vivo")
+<p align="center">
+  <img src="https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png"  width="60%">
+</p>
+## Muestra en línea:  [Dashboard Ventas SuperTienda](https://app.powerbi.com/view?r=eyJrIjoiYmFmYzVhNTctMzFiNi00OWEyLTgwOTctZGYzNjY5NmUzYWU4IiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9 "Informe en vivo")
 
 <!-- 
 ## Código Insertado
@@ -53,9 +53,10 @@ Este proyecto permitió poner en practica el contenido impartido en el Módulo 8
 ## Vistas del proyecto 🔭
 Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/proyectosupertienda/gallery/){:target="_blank"}
 
-<div class="embed-container">
-  <iframe src="https://melvincolmenares.github.io/proyectosupertienda/gallery/" frameborder="0" allowfullscreen></iframe>
-</div>
+
+<iframe src="https://melvincolmenares.github.io/proyectosupertienda/gallery/" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="https://melvincolmenares.github.io/proyectosupertienda/gallery/" width="100%" height="500" style="border:none;"></iframe>
 
 ## GitHub Pages 
 - [Sitio Web](https://melvincolmenares.github.io/proyectosupertienda/ "website")
