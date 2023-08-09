@@ -8,17 +8,6 @@ image:
   hide: true
   show: false
 ---
-<!--  ProyectoSuperTienda.PBIX
-
-Vínculo que puede enviar por correo electrónico:
-
-https://app.powerbi.com/view?r=eyJrIjoiYmFmYzVhNTctMzFiNi00OWEyLTgwOTctZGYzNjY5NmUzYWU4IiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9
-
-Código HTML que puede pegar en un sitio web:
-
-<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYmFmYzVhNTctMzFiNi00OWEyLTgwOTctZGYzNjY5NmUzYWU4IiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9" frameborder="0" allowFullScreen="true"></iframe>
-
--->
 <p align="center">
 <img src="https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png"  width="80%">
 </p>
