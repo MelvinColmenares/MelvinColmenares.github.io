@@ -1,4 +1,5 @@
 ---
+title: Proyecto SuperTienda
 categories: [Blogging, PowerBI]
 tags: [dashboard, typography, powerbi, homelab]
 published: true
@@ -7,8 +8,8 @@ image:
   hide: true
   show: false
 ---
-# Proyecto SuperTienda
-![Imagen del proyecto](/gallery/img/img01.png)
+## SuperTienda
+![Imagen del proyecto](https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png)
 
 ## Ejemplo en vivo
 - [Dashboard Proyecto SuperTienda](https://app.powerbi.com/view?r=eyJrIjoiYmFmYzVhNTctMzFiNi00OWEyLTgwOTctZGYzNjY5NmUzYWU4IiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9 "Informe en vivo")
@@ -51,9 +52,11 @@ Este proyecto permitió poner en practica el contenido impartido en el Módulo 8
 [![Power BI](https://img.shields.io/badge/PowerBi-F7DF1E?style=for-the-badge&logo=powerbi&logoColor=black)](https://es.wikipedia.org/wiki/PowerBI)
 
 ## Vistas del proyecto 🔭
-
+<!--
 Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/proyectosupertienda/gallery/){:target="_blank"}
-<div class="embed_container">
+-->
+Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/proyectosupertienda/gallery/)
+<div class="embed-container">
     <iframe src="https://melvincolmenares.github.io/proyectosupertienda/gallery/" frameborder="0" allowfullscreen></iframe>
 </div>
 
