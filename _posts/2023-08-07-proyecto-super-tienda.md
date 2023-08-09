@@ -51,12 +51,10 @@ Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/proyect
 - [https://www.linkedin.com/in/melvincolmenares/](https://www.linkedin.com/in/melvincolmenares)
 - *melvincr@gmail.com*
 - [https://github.com/MelvinColmenares](https://github.com/MelvinColmenares])
-
 - [Portafolio Web: https://melvincolmenares.github.io](https://melvincolmenares.github.io/)
 
 <!--
 Here are some ideas to get you started:
-
 
 * [micorreo@midominio.com](micorreo@midominio.com)
 * [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
