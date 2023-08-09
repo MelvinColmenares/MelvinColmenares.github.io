@@ -7,6 +7,9 @@ image:
   path: https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png
   hide: true
 ---
+<p align="center">
+  <img src="https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png"  width="80%">
+</p>
 
 Proyecto Power BI. Dashboard de ventas SuperTienda
 Informe expresado en USD y CLP.
