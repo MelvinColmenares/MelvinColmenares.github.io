@@ -29,14 +29,11 @@ Proyecto final de evaluación del curso de Power Bi, módulo 8 del curso Anális
 El modelo de datos se creó a partir de diferentes fuentes de datos: Archivos de Excel, CSV, PDF , una carpeta comprimida y páginas web de SII y Emol.
 Los archivos de Excel utilizados fueron: Maestros, TablasAuxiliares y los archivos de Pedidos por año y mes con datos del 2017 al 2020, que estaban contenidos en la carpeta comprimida PEDIDOS.
 
-
 ## Muestra en línea: [Dashboard Ventas SuperTienda](https://app.powerbi.com/view?r=eyJrIjoiYmFmYzVhNTctMzFiNi00OWEyLTgwOTctZGYzNjY5NmUzYWU4IiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9 "Informe en vivo")
 
 <!-- 
 ## Código Insertado
-
 <iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYmFmYzVhNTctMzFiNi00OWEyLTgwOTctZGYzNjY5NmUzYWU4IiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9" frameborder="0" allowFullScreen="true"></iframe>
-
 -->
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻 
