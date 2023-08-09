@@ -5,14 +5,9 @@ tags: [dashboard, typography, powerbi, homelab]
 published: true
 image:
   path: https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png
-  hide: true
+  hide: False
   show: false
 ---
-## SuperTienda
-<img src="https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png"  width="60%">
-
-## Muestra en línea  [Dashboard Proyecto SuperTienda](https://app.powerbi.com/view?r=eyJrIjoiYmFmYzVhNTctMzFiNi00OWEyLTgwOTctZGYzNjY5NmUzYWU4IiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9 "Informe en vivo")
-
 <!--  ProyectoSuperTienda.PBIX
 
 Vínculo que puede enviar por correo electrónico:
@@ -30,6 +25,11 @@ Proyecto SuperTienda es el proyecto final de evaluación del curso de Power Bi, 
 
 El modelo de datos se creó a partir de diferentes fuentes de datos: Archivos de Excel, CSV, PDF , una carpeta comprimida y páginas web de SII y Emol.
 Los archivos de Excel utilizados fueron: Maestros, TablasAuxiliares y los archivos de Pedidos por año y mes con datos del 2017 al 2020, que estaban contenidos en la carpeta comprimida PEDIDOS.
+
+## SuperTienda
+<img src="https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png"  width="60%">
+
+## Muestra en línea  [Dashboard Ventas SuperTienda](https://app.powerbi.com/view?r=eyJrIjoiYmFmYzVhNTctMzFiNi00OWEyLTgwOTctZGYzNjY5NmUzYWU4IiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9 "Informe en vivo")
 
 <!-- 
 ## Código Insertado
