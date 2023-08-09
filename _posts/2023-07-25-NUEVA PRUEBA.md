@@ -2,7 +2,7 @@
 title: Post de PRUEBA 9na NOVENA TERCERA PRUEBA
 categories: [Blogging, PowerBI]
 tags: [dashboard, typography, powerbi, homelab]
-published: true
+published: false
 image:
   path: /assets/images/MAPA_DETALLE_USD.png
   hide: false
