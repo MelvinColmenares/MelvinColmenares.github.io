@@ -59,7 +59,6 @@ Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/proyect
 <div class="embed-container">
     <iframe src="https://melvincolmenares.github.io/proyectosupertienda/gallery/" frameborder="0" allowfullscreen></iframe>
 </div>
-
 <div class="embed-container">
     <iframe src="https://melvincolmenares.github.io/proyectosupertienda/" frameborder="0" scrolling = "no" allowfullscreen ></iframe>
 </div>
