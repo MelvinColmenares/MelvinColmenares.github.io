@@ -21,7 +21,7 @@ timezone: America/Santiago
 
 title: Melvin Colmenares # the main title
 
-tagline: Portafolio, ejemplos de código e informes https://github.com/MelvinColmenares # it will display as the sub-title
+tagline: Portafolio, ejemplos de código e informes # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Portafolio / Briefcase
