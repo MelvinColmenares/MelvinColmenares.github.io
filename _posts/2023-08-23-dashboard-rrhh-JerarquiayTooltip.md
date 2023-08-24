@@ -4,33 +4,32 @@ categories: [Blogging, PowerBI]
 tags: [dashboard, powerbi, homelab]
 published: true
 image:
-  path: https://melvincolmenares.github.io/dashboard_rrhh/gallery/img/img01.png
+  path: https://melvincolmenares.github.io/dashboard_rrhh_220823/gallery/img/img01.png
   hide: true
 ---
 <p align="center">
-  <img src="https://melvincolmenares.github.io/dashboard_rrhh/gallery/img/img01.png"  width="90%">
+  <img src="https://melvincolmenares.github.io/dashboard_rrhh_220823/gallery/img/img01.png"  width="90%">
 </p>
 
-Proyecto Power BI. Dashboard de Recursos Humanos
-Informe Demográfico.
+Proyecto Power BI. Dashboard de Recursos Humanos - Gráfico de Jerarquía y Tooltip.
 
 ## Descripción Prueba
-Proyecto Power BI. Dashboard de Recursos Humanos, Clase 02 - 4go Academy.  Incluye la información dempgráfica para el  período 2009-2021. Incluye segmentaciones, filtros y objetos  intereactivos y elementos dinámicos que permiten explorar y hacer distintintos análisis sobre la información de recursos humanos.
+Proyecto Power BI. Dashboard de Recursos Humanos, Clase 02 - 4go Academy 220823.  Incluye la información demográfica para el  período 2011-2019. Incluye objetos  intereactivos y elementos dinámicos que permiten hacer segmentaciones y filtros. Se puede explorar y hacer distintintos análisis demográficos sobre recursos humanos.
 
-Para el modelo de datos se trabajó sobre una sábana de datos creada a partir de archivo de excel, además de usar tablas de calendario, medidas y parámetro. 
+Para el modelo de datos se trabajó sobre una sábana de datos creada a partir de archivo de excel y medidas. 
 
-## Muestra en línea: [Dashboard de Ventas](https://app.powerbi.com/view?r=eyJrIjoiNTVkYjYxZTItMjJiZS00NDVjLTlkMDQtOGE5NjVlNmUzNWYyIiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9 "Informe en vivo")
+## Muestra en línea: [Dashboard de RRHH](https://app.powerbi.com/view?r=eyJrIjoiYmIzZGExNmItZTFiNS00NDYwLWFlZDctZWU1YjBkMGZmMzRmIiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9 "Informe en vivo")
 
 <!-- 
 ## Código Insertado
 
-<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTVkYjYxZTItMjJiZS00NDVjLTlkMDQtOGE5NjVlNmUzNWYyIiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYmIzZGExNmItZTFiNS00NDYwLWFlZDctZWU1YjBkMGZmMzRmIiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 -->
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻 
 
-Este proyecto permitió poner en practica el desarrollo de un informe Power BI con  diferentes elementos de visualización interactivos, segmentadores, filtros y consultas con parámetros.
+Este proyecto permitió poner en practica el desarrollo de un informe Power BI con  diferentes elementos de visualización interactivos, con objeto de visualización funel y jerárquicos, además de usar un tooltip.
 
 ## Tecnologías 🛠
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile 
@@ -41,17 +40,17 @@ Este proyecto permitió poner en practica el desarrollo de un informe Power BI c
 [![Power BI](https://img.shields.io/badge/PowerBi-F7DF1E?style=for-the-badge&logo=powerbi&logoColor=black)](https://es.wikipedia.org/wiki/PowerBI)
 
 ## Vistas del proyecto 🔭
-Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/dashboard_rrhh/gallery/){:target="_blank"}
+Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/dashboard_rrhh_220823/gallery/){:target="_blank"}
 
 <div class="embed-container">
-  <iframe src="https://melvincolmenares.github.io/dashboard_rrhh/gallery/"  frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://melvincolmenares.github.io/dashboard_rrhh_220823/gallery/"  frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## GitHub Pages 
-- [Sitio Web](https://melvincolmenares.github.io/dashboard_rrhh/ "website")
+- [Sitio Web](https://melvincolmenares.github.io/dashboard_rrhh_220823/ "website")
   
 ## Repositorio 
-- [Repositorio GitHub](https://github.com/MelvinColmenares/dashboard_rrhh/ "Repositorio")
+- [Repositorio GitHub](https://github.com/MelvinColmenares/dashboard_rrhh_220823/ "Repositorio")
  
 ## Autor ✒️
 ## **Melvin Colmenares**
