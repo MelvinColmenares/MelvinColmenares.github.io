@@ -1,5 +1,5 @@
 ---
-title: Proyecto Análisis de Variación Volumen Vs. Precio
+title: Análisis Variación Volumen Vs. Precio
 categories: [Blogging, PowerBI]
 tags: [dashboard, powerbi, homelab]
 published: true
