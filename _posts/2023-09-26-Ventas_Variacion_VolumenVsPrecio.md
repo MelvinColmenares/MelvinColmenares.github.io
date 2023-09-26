@@ -14,7 +14,7 @@ image:
 Proyecto Power BI: Análisis de Variación Volumen Vs. Precio.
 
 ## Descripción
-Dashboard de Ventas con análisis de variación volumen Vs. precio. Incluye la información de ventas período 2019-2022. El informe está expresado en COL$ (Pesos Colombianos). Se usaron objetos  intereactivos dinámicos que permiten explorar y hacer distintintos análisis sobre la información de ventas análizando la variación de ventas en volumen vs. precio, usando objetos graficos de Zebra BI.
+Dashboard de Ventas con análisis de variación volumen Vs. precio. Incluye la información de ventas período 2019-2022. El informe está expresado en COL$ (Pesos Colombianos). Se usaron objetos  intereactivos dinámicos que permiten explorar y hacer distintintos análisis sobre la información de ventas análizando la variación de ventas en volumen vs. precio, usando objetos graficos Zebra BI.
 
 
 Para el modelo de datos se trabajó sobre una sábana de datos contenida en un archivo excel, este archivo fué preparado para cumplir los objetivos del ejercicio de análisis.  
