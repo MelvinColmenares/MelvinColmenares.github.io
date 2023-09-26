@@ -1,5 +1,5 @@
 ---
-title: Proyecto Dashboard de Ventas con Análisis de Variación Volumen Vs. Precio
+title: Proyecto Análisis de Variación Volumen Vs. Precio
 categories: [Blogging, PowerBI]
 tags: [dashboard, powerbi, homelab]
 published: true
