@@ -14,7 +14,7 @@ image:
 Proyecto Power BI. Dashboard de Ventas.
 
 ## Descripción
-Proyecto adicional (Bonus Prohject), curso Power BI Desktop for Business Intelligence (2023 Maven Analytics). Dashboard de Ventas Maven Market. Incluye la información de ventas período 1997-1998. El informe está expresado en US$. Objetos  intereactivos dinámicos que permiten explorar y hacer distintintos análisis sobre la información de ventas de la empresa Adventure Works.
+Proyecto adicional (Bonus Project), curso Power BI Desktop for Business Intelligence (2023 Maven Analytics). Dashboard de Ventas Maven Market. Incluye la información de ventas período 1997-1998. El informe está expresado en US$. Objetos  intereactivos dinámicos que permiten explorar y hacer distintintos análisis sobre la información de ventas de la empresa Adventure Works.
 
 
 Para el modelo de datos se trabajó sobre el modelo de datos de datos desarrolado a partir de archivos .CSV que fueron trasnformados y cargados de acuerdo a los requerimientos del modelo. 
